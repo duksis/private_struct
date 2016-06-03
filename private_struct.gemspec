@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Hugo Duksis"]
   spec.email         = ["duksis@gmail.com"]
 
-  spec.summary       = %q{Struct that does not violate encapuslation by default.}
+  spec.summary       = %q{Struct that does not violate encapsulation by default.}
   spec.homepage      = "https://github.com/duksis/private_struct"
   spec.license       = "MIT"
 
